@@ -31,17 +31,19 @@ Alternativer Stromwandler (50A)                 0       7       http://www.digik
 Boost converter (für 5V->15V)                   1       4       http://www.amazon.de/LM2577-Step-Up-3-5-30V-Converter-Regulator/dp/B00D8V4ATA/ref=sr_1_2?ie=UTF8&qid=1386155677&sr=8-2&keywords=step+up+converter
 Buck converter (für 5V->-15V)                   1       13      http://www.amazon.de/MW-LM2596-Converter-Module-1-23V-30V/dp/B00CVP4WJ2/ref=sr_1_2?ie=UTF8&qid=1386156155&sr=8-2&keywords=buck+converter
 Einbaudrehspulmesswerk für Stromanzeige         2       5       http://www.conrad.de/ce/de/product/108467/VOLTCRAFT-72x72-15V-Analog-Einbauinstrument-72-15-V-Drehspule?ref=searchDetail
-High current solid state relay (5V)
-Low current solid state relay (15V)
-Lüsterklemmen
-Dickes Kupferkabel
-Einbau-Flachsicherungshalter
-Flachsicherungen 60A Träge
-Einbau-Schmelzsicherungshalter
-Schmelzsicherungen 500mA Träge
+High current relay (5V)                         1       5       https://secure.reichelt.de/Miniaturrelais/FRC3-A-12/3/index.html?ACTION=3&LA=2&ARTICLE=79403&GROUPID=3292&artnr=FRC3+A+12 http://www.tme.eu/de/katalog/elektromagnetische-hochstromrelais_112505/#id_category=112506&s_field=artykul&s_order=ASC&visible_params=2%2C914%2C925%2C693%2C938%2C915%2C594%2C32%2C916%2C317&used_params=938%3A25945%2C24909%2C24626%3B
+Low current solid state relay (15V)             2       4       https://secure.reichelt.de/Solid-State-Relais/S202-S01/3/index.html?ACTION=3&LA=2&ARTICLE=15438&GROUPID=3298&artnr=S202+S01
+Anschlussklemmen 5V 10/11p gegen Verwechselung  2       5       http://www.conrad.de/ce/de/product/731966/Steckbare-Schraubklemme-mit-Liftprinzip-AKZ1550-Gruen-PTR-51550100025D-Inhalt-1-St?ref=list http://www.conrad.de/ce/ProductDetail.html?ref=list&productcode=732165&productname=Vertikale-Stiftleiste-Serie-STLZ1550-V-Rastermass-381-mm-Polzahl-10-Gruen-PTR-51550105125D-Inhalt-1-St&categorycode=SHOP_AREA_88126
+Anschlussklemmen 15V 4pol                       1       3
+Dickes Kupferkabel (16mm²)                      2m      4/m     http://www.conrad.de/ce/de/product/607441/NYM-J-Installationskabel-1-x-16-mm-Grau-Meterware-LappKabel?ref=list
+Litze 2.5mm² als Verbindung nach oben           25m     11      https://secure.reichelt.de/Fahrzeugleitung/FLK-2-5-SW-25/3/index.html?ACTION=3&LA=2&ARTICLE=31793&GROUPID=5349&artnr=FLK+2%2C5+SW-25
+Gewebe-Kabelschlauch                            2m      3/m     http://www.conrad.de/ce/de/product/543042/Helagaine-Geflechtschlauch-HEGPV0X-Buendelbereich-6-19-mm-HEGPV0X12-PBT-BK-C4HellermannTyton-Inhalt-Meterware?ref=searchDetail
+Einbau-Sicherungshalter                         1       5       http://www.conrad.de/ce/de/product/379701/SINUSLIVE-MINI-ANL-SICHERUNGSH-SH-150
+Sicherungen 60A tendenziell eher träge          3       2       http://www.conrad.de/ce/de/product/379707/
+Alternativ: Sicherungsautomat 3*20A             0       25      https://secure.reichelt.de/Sicherungstechnik/EL-LS3CO-C-20A/3/index.html?ACTION=3&LA=2&ARTICLE=52703&GROUPID=3388&artnr=EL+LS3CO+C+20A
+Einbau-Schmelzsicherungshalter                  2       1.5     https://secure.reichelt.de/Sicherungshalter/PL-FPG2-40/3/index.html?ACTION=3&LA=446&ARTICLE=53021&GROUPID=3308&artnr=PL+FPG2-40&SEARCH=sicherung+halter+schraub
+Schmelzsicherungen 500mA Mittelträge            10      1/10pcs https://secure.reichelt.de/5x20mm-Feinsicherungen/MTR-0-5A/3/index.html?ACTION=3&LA=446&ARTICLE=13234&GROUPID=3301&artnr=MTR.+0%2C5A&SEARCH=MITTELTR%C4GE+0%2C5A
 Crowbar (siehe ``crowbar.rst``)                 2
-Anschlussklemmen                                2
-XLR-Stecker, Buchse für ±15V
 Stellaris Launchpad
 Klebe-Platinenhalter
 ----------------------------------------------  ------  ------- --------------------------------------------------------------------------------
