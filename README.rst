@@ -20,7 +20,7 @@ Bill of Materials
 -----------------
 
 ==============================================  ======  ======= ================================================================================
-Was                                             Anzahl  Preis €  Link
+What                                            Count   Price € Link
 ==============================================  ======  ======= ================================================================================
 Anzeigelämpchen                                 2       2       http://www.conrad.biz/ce/de/product/703910/Meldeleuchte-230-VAC-Serie-1800-230-VAC-18071108-Meldeleuchte-Gruen
 Anzeigelämpchen                                 2       2       http://www.conrad.biz/ce/de/product/703897/Meldeleuchte-230-VAC-Serie-1800-230-VAC-18071102-Meldeleuchte-Rot
@@ -31,13 +31,15 @@ Alternativer Stromwandler (50A)                 0       7       http://www.digik
 Boost converter (für 5V->15V)                   1       4       http://www.amazon.de/LM2577-Step-Up-3-5-30V-Converter-Regulator/dp/B00D8V4ATA/ref=sr_1_2?ie=UTF8&qid=1386155677&sr=8-2&keywords=step+up+converter
 Buck converter (für 5V->-15V)                   1       13      http://www.amazon.de/MW-LM2596-Converter-Module-1-23V-30V/dp/B00CVP4WJ2/ref=sr_1_2?ie=UTF8&qid=1386156155&sr=8-2&keywords=buck+converter
 Einbaudrehspulmesswerk für Stromanzeige         2       5       http://www.conrad.de/ce/de/product/108467/VOLTCRAFT-72x72-15V-Analog-Einbauinstrument-72-15-V-Drehspule?ref=searchDetail
+High current solid state relay (5V)
+Low current solid state relay (15V)
 Lüsterklemmen
 Dickes Kupferkabel
 Einbau-Flachsicherungshalter
 Flachsicherungen 60A Träge
 Einbau-Schmelzsicherungshalter
 Schmelzsicherungen 500mA Träge
-Crowbar (siehe ``crowbar.md``)                  2
+Crowbar (siehe ``crowbar.rst``)                  2
 Anschlussklemmen                                2
 XLR-Stecker, Buchse für ±15V
 Stellaris Launchpad
