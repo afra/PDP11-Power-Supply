@@ -8,8 +8,7 @@ At AfRA_, we have a PDP-11/34A in pretty good condition, but since we are missin
 
 Specs
 -----
-+5V @ 50A
-+/- 15V @ 500mA
++5V @ 50A; ±15V @ 500mA
 
 - Full digital supervision of output voltages and currents
 - Digital control of outputs (on/off)
