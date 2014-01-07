@@ -20,7 +20,7 @@ Bill of Materials
 -----------------
 
 ==============================================  ======  ======= ================================================================================
-What                                            Count   Price € Link
+What                                            Amount  Price € Link
 ==============================================  ======  ======= ================================================================================
 Anzeigelämpchen                                 2       2       http://www.conrad.biz/ce/de/product/703910/Meldeleuchte-230-VAC-Serie-1800-230-VAC-18071108-Meldeleuchte-Gruen
 Anzeigelämpchen                                 2       2       http://www.conrad.biz/ce/de/product/703897/Meldeleuchte-230-VAC-Serie-1800-230-VAC-18071102-Meldeleuchte-Rot
