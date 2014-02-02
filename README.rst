@@ -25,6 +25,7 @@ What                                            Amount  Price € Link
 Anzeigelämpchen                                 2       2       http://www.conrad.biz/ce/de/product/703910/Meldeleuchte-230-VAC-Serie-1800-230-VAC-18071108-Meldeleuchte-Gruen
 Anzeigelämpchen                                 2       2       http://www.conrad.biz/ce/de/product/703897/Meldeleuchte-230-VAC-Serie-1800-230-VAC-18071102-Meldeleuchte-Rot
 Schaltnetzteil 5V/60A (300W)                    1       90      https://secure.reichelt.de/Schaltnetzteile-Case-geschlossen/SNT-HRPG-300-5/3/index.html?ACTION=3&LA=5&ARTICLE=108276&GROUPID=4959&artnr=SNT+HRPG+300+5
+Schaltnetzteil 5V/100A (500W) (Alternativ)      1       110     http://www.ebay.de/itm/1pc-Switching-Power-Supply-SE-600-5-5V-100A-600W-AC85-264Vin-247x127x63-MeanWell-/130891366233?pt=LH_DefaultDomain_0&hash=item1e79bbbf59
 19"-Rackgehäuse                                 1       45      http://www.thomann.de/de/adam_hall_87408_gehaeuse_2he.htm
 Stromwandler 60A                                1       14      http://www.digikey.com/product-detail/en/L18P060S05/MT7362-ND/3048507
 Alternativer Stromwandler (50A)                 0       7       http://www.digikey.com/product-detail/en/ACS756KCA-050B-PFF-T/620-1239-ND/1829842
